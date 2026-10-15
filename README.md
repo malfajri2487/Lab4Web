@@ -16,76 +16,76 @@ Mahasiswa mampu membuat halaman tambahan (About dan Kontak) dengan layout yang k
 Langkah-langkah Praktikum
 1. Membuat box element (Lab4_box.html)
    Html:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/1.png
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/2.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/1.png?raw=true)
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/2.png?raw=true)
    
    Css:
    
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/3.png?raw=true)
 
    Hasil:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/4.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/4.png?raw=true)
 
 2. Membuat Layout Sederhana (Lab4_Layout.html)
    Html:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/5.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/5.png?raw=true)
 
    Hasil:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/6.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/6.png?raw=true)
 
 3. Menambahkan Css Layout (style.css)
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/7.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/7.png?raw=true)
 
    Hasil:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/8.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/8.png?raw=true)
 
 4. Mengatur navigasi
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/9.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/9.png?raw=true)
 
    Hasil:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/10.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/10.png?raw=true)
 
 5. Membuat Hero Panel
    Html:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/11.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/11.png?raw=true)
 
    Css:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/12.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/12.png?raw=true)
 
    Hasil:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/13.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/13.png?raw=true)
 
 6. Menambahkan Css Float Untuk Main Content Dan Sidebar
    Html:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/15.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/15.png?raw=true)
 
    Css:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/14.png
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/25.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/14.png?raw=true)
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/25.png?raw=true)
 
    hasil:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/16.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/16.png?raw=true)
 
 7. Mengubah Tampilan Footer
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/17.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/17.png?raw=true)
 
 8. Menambahkan Elemen Lain Pada Main Content
    Html:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/18.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/18.png?raw=true)
 
    Css:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/19.png
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/20.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/19.png?raw=true)
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/20.png?raw=true)
 
    Hasil:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/21.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/21.png?raw=true)
 
 9. Membuat Content Artikel
    Html:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/22.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/22.png?raw=true)
 
    Css:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/23.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/23.png?raw=true)
 
    Hasil:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/24.png
+   ![alt text]https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/24.png?raw=true)
