@@ -20,8 +20,9 @@ Langkah-langkah Praktikum
    https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/2.png
    
    Css:
-   https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/3.png
    
+   ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/3.png?raw=true)
+
    Hasil:
    https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/4.png
 
