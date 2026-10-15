@@ -15,6 +15,7 @@ Mahasiswa mampu membuat halaman tambahan (About dan Kontak) dengan layout yang k
 
 Langkah-langkah Praktikum
 1. Membuat box element (Lab4_box.html)
+   
    Html:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/1.png?raw=true)
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/2.png?raw=true)
@@ -26,26 +27,26 @@ Langkah-langkah Praktikum
    Hasil:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/4.png?raw=true)
 
-2. Membuat Layout Sederhana (Lab4_Layout.html)
+3. Membuat Layout Sederhana (Lab4_Layout.html)
    Html:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/5.png?raw=true)
 
    Hasil:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/6.png?raw=true)
 
-3. Menambahkan Css Layout (style.css)
+4. Menambahkan Css Layout (style.css)
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/7.png?raw=true)
 
    Hasil:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/8.png?raw=true)
 
-4. Mengatur navigasi
+5. Mengatur navigasi
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/9.png?raw=true)
 
    Hasil:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/10.png?raw=true)
 
-5. Membuat Hero Panel
+6. Membuat Hero Panel
    Html:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/11.png?raw=true)
 
@@ -55,7 +56,7 @@ Langkah-langkah Praktikum
    Hasil:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/13.png?raw=true)
 
-6. Menambahkan Css Float Untuk Main Content Dan Sidebar
+7. Menambahkan Css Float Untuk Main Content Dan Sidebar
    Html:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/15.png?raw=true)
 
@@ -66,10 +67,10 @@ Langkah-langkah Praktikum
    hasil:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/16.png?raw=true)
 
-7. Mengubah Tampilan Footer
+8. Mengubah Tampilan Footer
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/17.png?raw=true)
 
-8. Menambahkan Elemen Lain Pada Main Content
+9. Menambahkan Elemen Lain Pada Main Content
    Html:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/18.png?raw=true)
 
@@ -80,7 +81,7 @@ Langkah-langkah Praktikum
    Hasil:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/21.png?raw=true)
 
-9. Membuat Content Artikel
+10. Membuat Content Artikel
    Html:
    ![alt text](https://github.com/malfajri2487/Lab4Web/blob/main/scrennshot%20pertemuan4/22.png?raw=true)
 
