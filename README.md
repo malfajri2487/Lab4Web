@@ -12,3 +12,16 @@ Mahasiswa mampu membuat layout website sederhana menggunakan semantic element HT
 Mahasiswa mampu mengatur navigasi, hero panel, main content, sidebar, dan footer menggunakan CSS.
 
 Mahasiswa mampu membuat halaman tambahan (About dan Kontak) dengan layout yang konsisten.
+
+## Struktur Folder Proyek
+
+Lab4Web/
+├── Lab4Web/
+│   └── Lab4_box.html
+├── Lab4_layout/
+│   ├── home.html
+│   ├── About.html
+│   ├── Contact.html
+│   └── style.css
+└── README.md
+```
